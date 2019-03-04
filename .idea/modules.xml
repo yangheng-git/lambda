@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda.iml" filepath="$PROJECT_DIR$/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/steam/steam.iml" filepath="$PROJECT_DIR$/steam/steam.iml" />
     </modules>
   </component>
 </project>
