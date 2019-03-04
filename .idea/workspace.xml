@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cca4e8ad-5329-447f-b18e-c36cea2ad5e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/steam/src/stream/StreamDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steam/src/stream/StreamDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steam/src/stream/StreamDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lambda/lambda/CurryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lambda/lambda/CurryDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/CurryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/lambda/CurryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/FunctionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/lambda/FunctionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/LambdaDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/lambda/LambdaDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/MethodRefrenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/lambda/MethodRefrenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/MoneyDeom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/lambda/MoneyDeom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/Stream流.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/lambda/Stream流.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/lambda/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/TypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/lambda/TypeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/VarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/lambda/VarDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/steam/src/stream/StreamDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/steam/src/stream/StreamDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/steam/src/stream/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/steam/src/stream/package-info.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +18,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo1.java">
+        <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="501">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1025">
+              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +47,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -60,7 +68,11 @@
         <option value="$PROJECT_DIR$/src/lambda/CurryDemo.java" />
         <option value="$PROJECT_DIR$/src/lambda/Streamliu.java" />
         <option value="$PROJECT_DIR$/src/lambda/Stream流.java" />
+        <option value="$PROJECT_DIR$/Lambda/src/lambda/Stream流.java" />
+        <option value="$PROJECT_DIR$/steam/src/stream/package-info.java" />
         <option value="$PROJECT_DIR$/steam/src/stream/StreamDemo1.java" />
+        <option value="$PROJECT_DIR$/steam/src/stream/StreamDemo2.java" />
+        <option value="$PROJECT_DIR$/steam/src/stream/StreamDemo3.java" />
       </list>
     </option>
   </component>
@@ -86,6 +98,24 @@
             <path>
               <item name="lambda" type="b2602c69:ProjectViewProjectNode" />
               <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lambda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lambda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lambda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
               <item name="steam" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -93,6 +123,13 @@
               <item name="lambda" type="462c0819:PsiDirectoryNode" />
               <item name="steam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lambda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="steam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -105,7 +142,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551710809610" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551713095406" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="E:/Github_Open_Source_Project/exrick-x" />
@@ -134,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamDemo1">
+  <component name="RunManager" selected="Application.StreamDemo3">
     <configuration name="CurryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambda.CurryDemo" />
       <module name="lambda" />
@@ -152,20 +189,6 @@
     <configuration name="FunctionDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambda.FunctionDemo" />
       <module name="Lambda" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.FunctionDemo" />
-      <module name="lambda" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -205,6 +228,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.StreamDemo3" />
+      <module name="steam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -227,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamDemo3" />
         <item itemvalue="Application.StreamDemo1" />
         <item itemvalue="Application.FunctionDemo (1)" />
         <item itemvalue="Application.CurryDemo" />
         <item itemvalue="Application.MethodRefrenceDemo" />
-        <item itemvalue="Application.FunctionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -247,18 +284,26 @@
       <updated>1551576873015</updated>
       <workItem from="1551576876673" duration="5162000" />
       <workItem from="1551707454091" duration="2748000" />
-      <workItem from="1551710436375" duration="282000" />
+      <workItem from="1551710436375" duration="2608000" />
     </task>
+    <task id="LOCAL-00001" summary="修改目录结构。 创建stream模块">
+      <created>1551710855643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551710855643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8192000" />
+    <option name="totallyTimeSpent" value="10518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -268,7 +313,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32832617" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32832617" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,6 +340,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改目录结构。 创建stream模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改目录结构。 创建stream模块" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lambda/src/lambda/ThreadDemo.java">
@@ -384,13 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lambda/src/lambda/Stream流.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lambda/src/lambda/FunctionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -401,10 +443,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda/src/lambda/Stream流.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steam/src/stream/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="451">
+          <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
