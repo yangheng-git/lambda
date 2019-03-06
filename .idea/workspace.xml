@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cca4e8ad-5329-447f-b18e-c36cea2ad5e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/steam/src/stream/StreamDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/steam/src/stream/StreamDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steam/src/stream/StreamDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steam/src/stream/StreamDemo5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steam/src/stream/StreamDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/steam/src/stream/StreamDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steam/src/stream/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/steam/src/stream/package-info.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo3.java">
+        <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            <state relative-caret-position="100">
+              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,13 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo2.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/TimeUnit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="818">
+              <caret line="70" column="12" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -73,6 +68,8 @@
         <option value="$PROJECT_DIR$/steam/src/stream/StreamDemo1.java" />
         <option value="$PROJECT_DIR$/steam/src/stream/StreamDemo2.java" />
         <option value="$PROJECT_DIR$/steam/src/stream/StreamDemo3.java" />
+        <option value="$PROJECT_DIR$/steam/src/stream/StreamDemo4.java" />
+        <option value="$PROJECT_DIR$/steam/src/stream/StreamDemo5.java" />
       </list>
     </option>
   </component>
@@ -142,7 +139,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551713095406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551885744008" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="E:/Github_Open_Source_Project/exrick-x" />
@@ -171,38 +168,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamDemo3">
-    <configuration name="CurryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.CurryDemo" />
-      <module name="lambda" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StreamDemo5">
     <configuration name="FunctionDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambda.FunctionDemo" />
       <module name="Lambda" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodRefrenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.MethodRefrenceDemo" />
-      <module name="lambda" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -242,6 +211,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.StreamDemo4" />
+      <module name="steam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.StreamDemo5" />
+      <module name="steam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -264,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamDemo5" />
+        <item itemvalue="Application.StreamDemo4" />
         <item itemvalue="Application.StreamDemo3" />
         <item itemvalue="Application.StreamDemo1" />
         <item itemvalue="Application.FunctionDemo (1)" />
-        <item itemvalue="Application.CurryDemo" />
-        <item itemvalue="Application.MethodRefrenceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +281,8 @@
       <updated>1551576873015</updated>
       <workItem from="1551576876673" duration="5162000" />
       <workItem from="1551707454091" duration="2748000" />
-      <workItem from="1551710436375" duration="2608000" />
+      <workItem from="1551710436375" duration="3297000" />
+      <workItem from="1551880471540" duration="2923000" />
     </task>
     <task id="LOCAL-00001" summary="修改目录结构。 创建stream模块">
       <created>1551710855643</created>
@@ -293,17 +291,23 @@
       <option name="project" value="LOCAL" />
       <updated>1551710855643</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="stream 的创建和中间操作">
+      <created>1551713136245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551713136245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10518000" />
+    <option name="totallyTimeSpent" value="14130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -313,8 +317,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32832617" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41738197" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40772533" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -343,7 +347,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改目录结构。 创建stream模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改目录结构。 创建stream模块" />
+    <MESSAGE value="stream 的创建和中间操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="stream 的创建和中间操作" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lambda/src/lambda/ThreadDemo.java">
@@ -443,13 +448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lambda/src/lambda/Stream流.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda/src/lambda/Stream流.java" />
     <entry file="file://$PROJECT_DIR$/steam/src/stream/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -464,16 +463,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/stream/Stream.java">
+    <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
+        <state relative-caret-position="725">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
+        <state relative-caret-position="925">
           <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -481,10 +483,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo3.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/function/BinaryOperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="203">
+          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="646" column="31" lean-forward="true" selection-start-line="646" selection-start-column="31" selection-end-line="646" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="70" column="12" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steam/src/stream/StreamDemo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
